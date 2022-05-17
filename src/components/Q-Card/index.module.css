@@ -1,0 +1,20 @@
+.info {
+  border-radius: 4px;
+  padding: 12px;
+  display: flex;
+  border: 1px solid #eee;
+  width: 300px;
+  margin: 12px auto;
+  text-align: left;
+}
+img {
+  height: 50px;
+  width: 50px;
+  margin-right: 8px;
+}
+.title{
+  display: inline-block;
+  width: 40px;
+  text-align: justify;
+  text-align-last: justify;
+}
